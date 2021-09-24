@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularApp';
+  title ='Angular Random Number Calculator App'
+  developer = 'Lara Mia Dell R. Lara'
 }
